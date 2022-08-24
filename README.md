@@ -26,3 +26,4 @@ The Remote-Working-DAO is a DAO for remote workers and companies supporting work
 2. 扫码加入下面互助群
 ![Qrcode](./static/img/wx-qrcode-20220824.png
 )
+3. 有职位发布可以联系群主或者提issue；
