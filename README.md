@@ -3,6 +3,7 @@ The Remote-Working-DAO is a DAO for remote workers and companies supporting work
 
 # 背景
 好多朋友在一线城市和大厂卷够了，也不想再承担房价的压力，打算尝试远程的工作机会。我们行业目前正好有比较多的远程职位，于是就想按照我们行业目前最流行的组织方式搭个桥，建一个DAO。
+https://mp.weixin.qq.com/s/tek2vfc3GDMfHZaZmoaiIg
 
 # 愿景和经济模型
 我们的想法很简单，帮想找远程职位的同学找到合适的工作，帮有远程职位的公司找到合适的人。
