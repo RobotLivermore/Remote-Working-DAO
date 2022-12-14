@@ -24,7 +24,5 @@ https://mp.weixin.qq.com/s/tek2vfc3GDMfHZaZmoaiIg
 
 # 参与方式
 1. star 本仓库;
-2. 扫码加入下面互助群
-![Qrcode](./static/img/wx-qrcode.png
-)
-1. 有职位发布可以联系群主或者提issue；
+2. 入群可以wx加 lbh9311 为好友，备注Remote Working;
+3. 有职位发布可以联系群主或者提issue；
